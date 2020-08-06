@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/dfs-bench/static/js/main.11a6caa2.chunk.js",
+    "main.js.map": "/dfs-bench/static/js/main.11a6caa2.chunk.js.map",
+    "runtime-main.js": "/dfs-bench/static/js/runtime-main.c464e9f9.js",
+    "runtime-main.js.map": "/dfs-bench/static/js/runtime-main.c464e9f9.js.map",
+    "static/css/2.0c0672e5.chunk.css": "/dfs-bench/static/css/2.0c0672e5.chunk.css",
+    "static/js/2.b75a2f26.chunk.js": "/dfs-bench/static/js/2.b75a2f26.chunk.js",
+    "static/js/2.b75a2f26.chunk.js.map": "/dfs-bench/static/js/2.b75a2f26.chunk.js.map",
+    "1.fe9faf4efceba86319ab.worker.js": "/dfs-bench/1.fe9faf4efceba86319ab.worker.js",
+    "1.fe9faf4efceba86319ab.worker.js.map": "/dfs-bench/1.fe9faf4efceba86319ab.worker.js.map",
+    "fb25e0ac07d1bdfe8450.module.wasm": "/dfs-bench/fb25e0ac07d1bdfe8450.module.wasm",
+    "fe9faf4efceba86319ab.worker.js": "/dfs-bench/fe9faf4efceba86319ab.worker.js",
+    "fe9faf4efceba86319ab.worker.js.LICENSE.txt": "/dfs-bench/fe9faf4efceba86319ab.worker.js.LICENSE.txt",
+    "fe9faf4efceba86319ab.worker.js.map": "/dfs-bench/fe9faf4efceba86319ab.worker.js.map",
+    "index.html": "/dfs-bench/index.html",
+    "precache-manifest.309d223c64fef69dbd1c57c9d501df68.js": "/dfs-bench/precache-manifest.309d223c64fef69dbd1c57c9d501df68.js",
+    "service-worker.js": "/dfs-bench/service-worker.js",
+    "static/css/2.0c0672e5.chunk.css.map": "/dfs-bench/static/css/2.0c0672e5.chunk.css.map",
+    "static/js/2.b75a2f26.chunk.js.LICENSE.txt": "/dfs-bench/static/js/2.b75a2f26.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c464e9f9.js",
+    "static/css/2.0c0672e5.chunk.css",
+    "static/js/2.b75a2f26.chunk.js",
+    "static/js/main.11a6caa2.chunk.js"
+  ]
+}
